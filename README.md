@@ -1,2 +1,3 @@
 # BT-32
-this repo is for my winning camp practical sessions
+Java Full Stack exclusively provided by ByteXL
+
